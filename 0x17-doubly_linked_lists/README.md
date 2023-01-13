@@ -8,7 +8,7 @@ Tested on Ubuntu 20.04 LTS
 Files
 All of the following files are scripts and programs written in C:
 
-Filename	Description
+Filename	        Description
 0-print_dlistint.c	Prints all the elements of a dlistint_t list
 1-dlistint_len.c	Returns the number of elements in a linked dlistint_t list
 2-add_dnodeint.c	Adds a new node at the beginning of a dlistint_t list
@@ -18,6 +18,6 @@ Filename	Description
 6-sum_dlistint.c	Returns the sum of all the data (n) of a dlistint_t linked list
 7-insert_dnodeint.c	Inserts a new node at a given position
 8-delete_dnodeint.c	Deletes the node at index index of a dlistint_t linked list
-100-password	Stores the password for crackme4 executable file
-102-result	Stores the largest palindrome made from the product of two 3-digit numbers
-103-keygen.c	Generates a keygen for crackme5 executable file
+100-password	        Stores the password for crackme4 executable file
+102-result	        Stores the largest palindrome made from the product of two 3-digit numbers
+103-keygen.c	        Generates a keygen for crackme5 executable file
